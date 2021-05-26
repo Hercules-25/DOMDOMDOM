@@ -1,0 +1,12 @@
+.newDiv {
+    display: flex;
+    float: left;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    color: white;
+}
